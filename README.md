@@ -4,7 +4,7 @@ Space Invaders 2 is a modern take on the classic arcade game, developed using Py
 
 ## Key Features
 - Multiple alien setups with unique movement patterns.
-- Smooth controls: Rotate left/right and shoot lasers.
+- Smooth controls: Rotate left/right, move, and shoot lasers.
 - Scoring and life-tracking system.
 - Start screen with game instructions.
 - Retro-inspired graphics and sound effects.
